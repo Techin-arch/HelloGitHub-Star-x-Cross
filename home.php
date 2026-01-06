@@ -22,7 +22,7 @@
 			</td>
 			<td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
-				<li><a href="room.php">ห้องพัก&ราคา</li>
+				<li><a href="room.php">ห้องพัก&ราคาาาา</li>
  branch3
 				<li><a href="facilitate.php">สิ่งอำนวยความสะดวกddddd</li>
 
